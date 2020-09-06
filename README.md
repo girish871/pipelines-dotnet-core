@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/girishsingh03/girishsingh03/_apis/build/status/girish871.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/girishsingh03/girishsingh03/_build/latest?definitionId=1&branchName=master)
 [![Build Status](https://dev.azure.com/girishsingh03/TestProject/_apis/build/status/girish871.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/girishsingh03/TestProject/_build/latest?definitionId=1&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
